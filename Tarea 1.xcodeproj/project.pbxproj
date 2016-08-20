@@ -47,6 +47,7 @@
 		CCE53E821D67CE7100B75A4A /* Tarea 1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tarea 1UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CCE53E861D67CE7100B75A4A /* Tarea_1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tarea_1UITests.swift; sourceTree = "<group>"; };
 		CCE53E881D67CE7100B75A4A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CCE53E961D67EA6100B75A4A /* Tarea 1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Tarea 1.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +104,7 @@
 				CCE53E6D1D67CE7000B75A4A /* Assets.xcassets */,
 				CCE53E6F1D67CE7000B75A4A /* LaunchScreen.storyboard */,
 				CCE53E721D67CE7000B75A4A /* Info.plist */,
+				CCE53E961D67EA6100B75A4A /* Tarea 1.playground */,
 			);
 			path = "Tarea 1";
 			sourceTree = "<group>";
