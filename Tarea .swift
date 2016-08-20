@@ -6,6 +6,11 @@
 //  Copyright © 2016 Ernesto Cervantes. All rights reserved.
 //
 
-import Foundation
+import UIKit
 
-var hola = "hola"
+var x = "Dejame trabajar"
+
+for i in 0...100{
+    print (x)
+}
+
