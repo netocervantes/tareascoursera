@@ -34,6 +34,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		CCA3D81E1D7B716B000CA215 /* Tarea 2 (Velocimetro).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Tarea 2 (Velocimetro).playground"; sourceTree = SOURCE_ROOT; };
 		CCE53E631D67CE7000B75A4A /* Tarea 1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Tarea 1.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CCE53E661D67CE7000B75A4A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CCE53E681D67CE7000B75A4A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -105,6 +106,7 @@
 				CCE53E6F1D67CE7000B75A4A /* LaunchScreen.storyboard */,
 				CCE53E721D67CE7000B75A4A /* Info.plist */,
 				CCE53E961D67EA6100B75A4A /* Tarea 1.playground */,
+				CCA3D81E1D7B716B000CA215 /* Tarea 2 (Velocimetro).playground */,
 			);
 			path = "Tarea 1";
 			sourceTree = "<group>";
@@ -486,6 +488,7 @@
 				CCE53E8D1D67CE7100B75A4A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CCE53E8E1D67CE7100B75A4A /* Build configuration list for PBXNativeTarget "Tarea 1Tests" */ = {
 			isa = XCConfigurationList;
@@ -494,6 +497,7 @@
 				CCE53E901D67CE7100B75A4A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CCE53E911D67CE7100B75A4A /* Build configuration list for PBXNativeTarget "Tarea 1UITests" */ = {
 			isa = XCConfigurationList;
@@ -502,6 +506,7 @@
 				CCE53E931D67CE7100B75A4A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
