@@ -6,11 +6,5 @@
 //  Copyright © 2016 Ernesto Cervantes. All rights reserved.
 //
 
-import UIKit
 
-var x = "Dejame trabajar"
-
-for i in 0...100{
-    print (x)
-}
 
