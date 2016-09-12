@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CC7981501D86289F00CEB5E1 /* Hamburguesas in Resources */ = {isa = PBXBuildFile; fileRef = CC79814F1D86289F00CEB5E1 /* Hamburguesas */; };
 		CCE53E671D67CE7000B75A4A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCE53E661D67CE7000B75A4A /* AppDelegate.swift */; };
 		CCE53E691D67CE7000B75A4A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCE53E681D67CE7000B75A4A /* ViewController.swift */; };
 		CCE53E6C1D67CE7000B75A4A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CCE53E6A1D67CE7000B75A4A /* Main.storyboard */; };
@@ -34,18 +35,19 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		CC79814F1D86289F00CEB5E1 /* Hamburguesas */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Hamburguesas; path = ../Hamburguesas; sourceTree = "<group>"; };
 		CCA3D81E1D7B716B000CA215 /* Tarea 2 (Velocimetro).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Tarea 2 (Velocimetro).playground"; sourceTree = SOURCE_ROOT; };
-		CCE53E631D67CE7000B75A4A /* Tarea 1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Tarea 1.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		CCE53E631D67CE7000B75A4A /* Tarea 1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "Tarea 1.app"; path = "/Users/netocervantes/Desktop/Xcode/Tarea 1/build/Debug-iphoneos/Tarea 1.app"; sourceTree = "<absolute>"; };
 		CCE53E661D67CE7000B75A4A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CCE53E681D67CE7000B75A4A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		CCE53E6B1D67CE7000B75A4A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		CCE53E6D1D67CE7000B75A4A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CCE53E701D67CE7000B75A4A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CCE53E721D67CE7000B75A4A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		CCE53E771D67CE7100B75A4A /* Tarea 1Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tarea 1Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		CCE53E771D67CE7100B75A4A /* Tarea 1Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "Tarea 1Tests.xctest"; path = "/Users/netocervantes/Desktop/Xcode/Tarea 1/build/Debug-iphoneos/Tarea 1Tests.xctest"; sourceTree = "<absolute>"; };
 		CCE53E7B1D67CE7100B75A4A /* Tarea_1Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tarea_1Tests.swift; sourceTree = "<group>"; };
 		CCE53E7D1D67CE7100B75A4A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		CCE53E821D67CE7100B75A4A /* Tarea 1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tarea 1UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		CCE53E821D67CE7100B75A4A /* Tarea 1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "Tarea 1UITests.xctest"; path = "/Users/netocervantes/Desktop/Xcode/Tarea 1/build/Debug-iphoneos/Tarea 1UITests.xctest"; sourceTree = "<absolute>"; };
 		CCE53E861D67CE7100B75A4A /* Tarea_1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tarea_1UITests.swift; sourceTree = "<group>"; };
 		CCE53E881D67CE7100B75A4A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CCE53E961D67EA6100B75A4A /* Tarea 1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Tarea 1.playground"; sourceTree = "<group>"; };
@@ -79,21 +81,11 @@
 		CCE53E5A1D67CE7000B75A4A = {
 			isa = PBXGroup;
 			children = (
+				CC79814F1D86289F00CEB5E1 /* Hamburguesas */,
 				CCE53E651D67CE7000B75A4A /* Tarea 1 */,
 				CCE53E7A1D67CE7100B75A4A /* Tarea 1Tests */,
 				CCE53E851D67CE7100B75A4A /* Tarea 1UITests */,
-				CCE53E641D67CE7000B75A4A /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		CCE53E641D67CE7000B75A4A /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				CCE53E631D67CE7000B75A4A /* Tarea 1.app */,
-				CCE53E771D67CE7100B75A4A /* Tarea 1Tests.xctest */,
-				CCE53E821D67CE7100B75A4A /* Tarea 1UITests.xctest */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 		CCE53E651D67CE7000B75A4A /* Tarea 1 */ = {
@@ -217,7 +209,7 @@
 				Base,
 			);
 			mainGroup = CCE53E5A1D67CE7000B75A4A;
-			productRefGroup = CCE53E641D67CE7000B75A4A /* Products */;
+			productRefGroup = CCE53E5A1D67CE7000B75A4A;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -236,6 +228,7 @@
 				CCE53E711D67CE7000B75A4A /* LaunchScreen.storyboard in Resources */,
 				CCE53E6E1D67CE7000B75A4A /* Assets.xcassets in Resources */,
 				CCE53E6C1D67CE7000B75A4A /* Main.storyboard in Resources */,
+				CC7981501D86289F00CEB5E1 /* Hamburguesas in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
